@@ -1,0 +1,141 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background-color: teal;
+	opacity: 75%
+	font: 25px "Arial Black", Arial, Sans-Serif;
+}
+
+.container{
+	border-color: black;
+	border-style: solid;
+	width: 176px;
+	margin: 25px auto;
+	background-color: black;
+}
+
+.num-button{
+	color: white;
+	display: run-in;
+	text-align: center;
+	font-size: 21px;
+	font-style: normal;
+	background-size: contain;
+	background-color: darkgray;
+	width: 44px;
+	height: 41px;
+	padding: 3px 0 0 0;
+	text-align: center;
+}
+
+.display {
+	font-size: 33px;
+	font: solid;
+	background-color: black;
+	opacity: 0.5;
+	color: white;
+	width: 170px;
+	height: 60px;
+	padding: 3px 0 0 0;
+	text-align: right;
+}
+
+.clear{
+	background-color: red;
+	top: 62px;
+	left: 15px;
+}
+.sign{
+	background-color: darkorange;
+	top: 62px;
+	left: 66px;
+}
+.percent{
+	background-color: darkorange;
+	top: 62px;
+	left: 118px;
+}
+
+.power {
+	background-color: darkorange;
+	top: 62px;
+	left: 170;
+}
+
+.seven{
+	top: 86px;
+	left: 15px;
+}
+.eight{
+	top: 86px;
+	left: 66px;
+}
+.nine{
+	top: 86px;
+	left: 118px;
+}
+
+.divide {
+	background-color: darkorange;
+	top: 94px;
+	left: 170;
+}
+
+.four{
+	top: 110px;
+	left: 15px;
+}
+.five{
+	top: 110px;
+	left: 66px;
+}
+.six{
+	top: 110px;
+	left: 118px;
+}
+
+.multiply {
+	background-color: darkorange;
+	top: 110px;
+	left: 170;
+}
+
+.one{
+	top: 134px;
+	left: 15px;
+}
+.two{
+	top: 134px;
+	left: 66px;
+}
+.three{
+	top: 134px;
+	left: 118px;
+}
+.minus{
+	background-color: darkorange;
+	top: 134px;
+	left: 170px;
+}
+
+.zero{
+	top: 158px;
+	left: 15px;
+}
+.decimal{
+	background-color: darkorange;
+	top: 158px;
+	left: 66px;
+}
+.equal{
+	background-color: darkorange;
+	top: 158px;
+	left: 118px;
+}
+.plus{
+	background-color: darkorange;
+	top: 158px;
+	left: 170px;
+}
