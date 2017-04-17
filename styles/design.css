@@ -47,11 +47,13 @@ body {
 	top: 62px;
 	left: 15px;
 }
+
 .sign{
 	background-color: darkorange;
 	top: 62px;
 	left: 66px;
 }
+
 .percent{
 	background-color: darkorange;
 	top: 62px;
@@ -68,10 +70,12 @@ body {
 	top: 86px;
 	left: 15px;
 }
+
 .eight{
 	top: 86px;
 	left: 66px;
 }
+
 .nine{
 	top: 86px;
 	left: 118px;
@@ -87,10 +91,12 @@ body {
 	top: 110px;
 	left: 15px;
 }
+
 .five{
 	top: 110px;
 	left: 66px;
 }
+
 .six{
 	top: 110px;
 	left: 118px;
@@ -106,14 +112,17 @@ body {
 	top: 134px;
 	left: 15px;
 }
+
 .two{
 	top: 134px;
 	left: 66px;
 }
+
 .three{
 	top: 134px;
 	left: 118px;
 }
+
 .minus{
 	background-color: darkorange;
 	top: 134px;
@@ -124,16 +133,19 @@ body {
 	top: 158px;
 	left: 15px;
 }
+
 .decimal{
 	background-color: darkorange;
 	top: 158px;
 	left: 66px;
 }
+
 .equal{
 	background-color: darkorange;
 	top: 158px;
 	left: 118px;
 }
+
 .plus{
 	background-color: darkorange;
 	top: 158px;

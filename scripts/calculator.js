@@ -5,15 +5,9 @@ config();
 
 
 var config = function () {
-	// header();
 	makeCalculator();
 }
 
-// var header = function() {
-// 	$('body').prepend('<h1> Calculator JS <h1>','<hr>');
-// 	var $hr = ('<hr>');
-// 	$('body').append($hr);
-// }
 //Use the following to store numbers and conduct various operations
 var num = false;
 var num1 = '';
