@@ -1,6 +1,6 @@
 <h1>JS Calculator</h1>
 <br>
-<hr>
+
 # Summary
 A simple JavaScript calculator-app developed with atom that allows user to conduct basic calculation.
 
@@ -10,7 +10,6 @@ A simple JavaScript calculator-app developed with atom that allows user to condu
 1. [How to Execute](#how-to-execute)
 2. [Class Structure Overview](#class-structure-overview)
 
-<hr>
 ## How to Execute
 - The web-app is hosted on: insert URL <a href="">**here**</a>
 - Download the entire program as a .war file <a href="">**here**</a>
