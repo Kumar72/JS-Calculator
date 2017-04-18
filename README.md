@@ -1,6 +1,3 @@
-<h1>JS Calculator</h1>
-<br>
-
 # Summary
 A simple JavaScript calculator-app developed with atom that allows user to conduct basic calculation.
 
